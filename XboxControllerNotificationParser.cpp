@@ -1,5 +1,4 @@
 #include "XboxControllerNotificationParser.h"
-#include <cstdint>
 
 #define XBOX_CONTROLLER_INDEX_BUTTONS_DIR 1
 #define XBOX_CONTROLLER_INDEX_BUTTONS_MAIN 13
